@@ -1,0 +1,2 @@
+# egret_protobuf
+egret的WebSocket封装依赖库。外加protobuf版本3
